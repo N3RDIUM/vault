@@ -1,0 +1,1 @@
+- [ ] Plan the structure early on.
