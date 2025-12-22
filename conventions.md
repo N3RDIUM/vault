@@ -30,7 +30,7 @@ Selected, interesting problems. No redundancy. Explore at most one each of a var
 ## derivations/
 Keep derivations separate from concepts, linking between them instead. This allows for a much more streamlined structure.
 ## doubts/
-An index of doubts I’ve asked, along with answers and links to the concepts/derivations that helped resolve the doubt. Each file will have a `status` property which can hold one of three values: {open, resolved, obsolete}.
+An index of doubts I’ve asked, along with answers and links to the concepts/derivations that helped resolve the doubt. Each file will have a `status` property which can hold one of three values: {open, resolved, obsolete}. Doubts need not start from the `inbox/` directory.
 ## projects/
 This section of the vault is currently highly experimental. I intend to add *practical* stuff to complement the theory.
 ## research/\[\<title\>\]
