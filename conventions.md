@@ -10,8 +10,8 @@ Remember that *you’re not writing a textbook here.* These are *highly optimize
 All file and folder names will be `snake_case`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
 Separate knowledge into *levels,* like:
-- #introductory
-- #undergraduate
+- #intro
+- #ug
 And later,
 - #masters 
 - #phd
@@ -36,7 +36,7 @@ This section of the vault is currently highly experimental. I intend to add *pra
 ## research/\[\<title\>\]
 Either individual notes, or non-recursive directories. This area is also highly experimental.
 # Notes
-Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects.
+Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects. 
 # Footnotes
 Use footnotes generously to:
 - Mark or link to sources, especially if they’re external

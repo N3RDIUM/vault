@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca9c7fdd3ff5ad0",
+        "id": "350500f3d3df00f6",
         "type": "tabs",
         "children": [
           {
-            "id": "06c6ddb4e07417c9",
+            "id": "b861b10151363740",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,10 +221,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "06c6ddb4e07417c9",
+  "active": "fa9bb5bb50e4271e",
   "lastOpenFiles": [
-    "_templates/inbox.md",
     "conventions.md",
+    "_templates/inbox.md",
     "readme.md",
     "LICENSE.md",
     "inbox/202512221940.md",
