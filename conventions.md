@@ -21,20 +21,22 @@ Currently “registered” subjects:
 - #chemistry
 - #math
 # Structure
-## concepts/{\<subject\>}
+## concepts/
 Individual notes in these directories will contain the notes for a specific topic in said subject. If multiple notes overlap too much, *merge them. No exceptions.* Each note will address only ONE topic or concept. Edge case: overlapping notes *across multiple subjects* (rare).
 ## courses/{\<level\>}
 Notes will contain structures and links to all other data types (concepts, derivations, problems, doubts, etc.) in a course-curriculum-like structure. No actual text material, just structure.
-## problems/{\<subject\>}
+## problems
 Selected, interesting problems. No redundancy. Explore at most one each of a variety of problems instead of compiling those boring “problem sets”. This part of the vault is currently considered to have a relatively low priority.
 ## derivations/
 Keep derivations separate from concepts, linking between them instead. This allows for a much more streamlined structure.
-## doubts/{\<subject\>}
+## doubts/
 An index of doubts I’ve asked, along with answers and links to the concepts/derivations that helped resolve the doubt. Each file will have a `status` property which can hold one of three values: {open, resolved, obsolete}.
-## projects/{\<subject\>}
+## projects/
 This section of the vault is currently highly experimental. I intend to add *practical* stuff to complement the theory.
 ## research/\[\<title\>\]
 Either individual notes, or non-recursive directories. This area is also highly experimental.
+# Notes
+Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects.
 # Footnotes
 Use footnotes generously to:
 - Mark or link to sources, especially if they’re external

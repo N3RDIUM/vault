@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "conventions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "conventions"
             }
           }
         ]
@@ -105,10 +105,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "readme.md"
+                "file": "conventions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for readme"
+              "title": "File properties for conventions"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "readme.md"
+                "file": "conventions.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -217,14 +217,28 @@
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "06c6ddb4e07417c9",
   "lastOpenFiles": [
+    "_templates/inbox.md",
     "conventions.md",
-    "todo.md",
     "readme.md",
+    "LICENSE.md",
+    "inbox/202512221940.md",
+    "_templates",
+    "inbox",
+    "doubts/math",
+    "doubts/chemistry",
+    "doubts/physics",
+    "doubts",
+    "problems/chemistry",
+    "problems/physics",
+    "problems",
+    "derivations",
+    "todo.md",
     "conventions_draft.md",
     "Untitled.canvas",
     "Templates/Presentation.md",
@@ -246,20 +260,7 @@
     "Laws.md",
     "Cornell.md",
     "Scientific Method.md",
-    "Fleet/flt-19-12-2025.md",
-    "Fleet/flt-10-11-2025.md",
-    "Fleet/flt-26-09-2025.md",
-    "Writing Projects/The Last Question - Literary Analysis/The Last Question.pdf",
-    "Ideas",
-    "Writing Projects/jeff",
-    "Writing Projects/The Last Question - Literary Analysis",
-    "Writing Projects/Book Reviews",
-    "Writing Projects/73120/characters",
-    "Swamp",
     "Writing Projects/Research/Nov 2025 Physics/transformer_illustration.png",
-    "Writing Projects/Research/Nov 2025 Physics",
-    "Writing Projects/Research/Nov 2025 Physics",
-    "Writing Projects/Research/Nov 2025 Chemistry",
     "Writing Projects/Research/Nov 2025 English/Motivations.png",
     "Writing Projects/Research/Nov 2025 English/Experience.png",
     "Writing Projects/Research/Nov 2025 English/Drives to school.png",
