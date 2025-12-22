@@ -1,3 +1,0 @@
-- [ ] Plan the structure early on.
-	- [x] Write a short one first
-	- [ ] Remove all speculation and make things definite. Expand and move to `conventions.md`.

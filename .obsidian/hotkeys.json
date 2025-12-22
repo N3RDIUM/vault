@@ -132,14 +132,6 @@
       "key": "L"
     }
   ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "G"
-    }
-  ],
   "editor:delete-paragraph": [],
   "obsidian-kanban:toggle-kanban-view": [
     {
