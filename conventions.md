@@ -22,7 +22,7 @@ Currently “registered” subjects:
 - #math
 # Structure
 ## concepts/
-Individual notes in these directories will contain the notes for a specific topic in said subject. If multiple notes overlap too much, *merge them. No exceptions.* Each note will address only ONE topic or concept. Edge case: overlapping notes *across multiple subjects* (rare).
+Individual notes in these directories will contain the notes for a specific topic in said subject. If multiple notes overlap too much, *merge them. No exceptions.* Each note will address only ONE topic or concept.
 ## courses/{\<level\>}
 Notes will contain structures and links to all other data types (concepts, derivations, problems, doubts, etc.) in a course-curriculum-like structure. No actual text material, just structure.
 ## problems
