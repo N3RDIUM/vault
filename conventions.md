@@ -1,11 +1,11 @@
 # Context
-This vault is going to be used with a custom webpage builder in order to cleanly integrate this with my website. Every time this repository is committed to, a webhook will trigger build and pages deploy on `n3rdium.dev`. That’s what I plan to do around April 2026.
+This vault is going to be used with a custom webpage builder in order to cleanly integrate this with my website. Every time this repository is committed to, a webhook will trigger pages deploy on `n3rdium.dev`. That’s what I plan to do around April 2026.
 
-Avoid renaming, since URLs need stability. For some amount of safety netting, you can implement a redirect system (markdown syntax with a redirect property). This is to be avoided as well, since it ruins ux.
+Avoid renaming, since URLs need stability. For some amount of safety netting, you can implement a redirect system (markdown syntax with a redirect property). This is to be avoided as well, since it ruins UX.
 
 The structure plan will keep this in mind, along with longevity. I really need this structure to *just work,* with minimal refactoring. For decades to come. That’s going to be a fun challenge to tackle.
 
-Remember that *you’re not writing a textbook here.* These are *highly optimized, distilled notes.* Structure them appropriately. It’ll be completely useless if this ends up turning a textbook.
+Remember that *you’re not writing a textbook here.* These are *highly optimized, distilled notes.* Structure them appropriately. It’ll be completely useless if this ends up turning into a textbook.
 # Paths
 All file and folder names will be `snake_case`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
