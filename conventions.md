@@ -1,5 +1,5 @@
 # Context
-This vault is going to be used with a custom webpage builder in order to cleanly integrate this with my website. Every time this repository is committed to, a webhook will trigger pages deploy on `n3rdium.dev`. That’s what I plan to do around April 2026.
+This vault is going to be used with a static site generator in order to cleanly integrate this with my website. Every time this repository is committed to, a webhook will trigger pages deploy on `n3rdium.dev`. That’s what I plan to do around April 2026.
 
 Avoid renaming, since URLs need stability. For some amount of safety netting, you can implement a redirect system (markdown syntax with a redirect property). This is to be avoided as well, since it ruins UX.
 
@@ -13,7 +13,7 @@ Separate knowledge into *levels,* like:
 - #intro
 - #ug
 And later,
-- #masters 
+- #masters
 - #phd
 # Subjects
 Currently “registered” subjects:
