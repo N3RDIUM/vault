@@ -3,7 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "progress": "number",
-    "subjects": "multitext"
+    "progress": "number"
   }
 }

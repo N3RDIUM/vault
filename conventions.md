@@ -36,7 +36,9 @@ This section of the vault is currently highly experimental. I intend to add *pra
 ## research/\[\<title\>\]
 Either individual notes, or non-recursive directories. This area is also highly experimental.
 # Notes
-Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects. 
+Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects.
+
+Wherever applicable (especially if it’s in the vault already), each note is to have a “prerequisites” section/tags.
 # Footnotes
 Use footnotes generously to:
 - Mark or link to sources, especially if they’re external
@@ -46,7 +48,7 @@ Almost all notes in this vault are born in the `inbox/` directory. Ideas start h
 
 Notes in the `inbox/` directory *must* stay orphaned. Intended links will be denoted `[[like this]]` until “the orphan gets adopted” and makes its way into “the structure”.
 
-Use #todo tags to mark sections of an orphan that need work. An orphan cannot be adopted unless all #todo tags have been resolved.
+Use `#todo` tags to mark sections of an orphan that need work. An orphan cannot be adopted unless all `#todo` tags have been resolved.
 # Updates
 Each file (or heading or list entry, if applicable) will contain these `#<level>` tags. This will improve accessibility. Whenever a topic is learnt in more depth than before, the same note is to be appended to with relevant tags in place.
 # Commits

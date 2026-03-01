@@ -1,8 +1,8 @@
 {
   "accentColor": "#5e81ac",
   "theme": "obsidian",
-  "cssTheme": "Material Gruvbox",
-  "interfaceFontFamily": "Iosevka",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Iosevka Light",
   "textFontFamily": "Iosevka",
   "monospaceFontFamily": "Iosevka",
   "baseFontSize": 20,

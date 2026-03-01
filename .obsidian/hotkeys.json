@@ -92,6 +92,14 @@
       "key": "P"
     }
   ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
+    }
+  ],
   "editor:focus-top": [
     {
       "modifiers": [
@@ -122,6 +130,14 @@
         "Alt"
       ],
       "key": "L"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
     }
   ],
   "editor:delete-paragraph": [],
@@ -259,12 +275,12 @@
       "key": "P"
     }
   ],
-  "zk-prefixer": [
+  "obsidian-hider:toggle-tab-containers": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "I"
+      "key": "F"
     }
   ]
 }
