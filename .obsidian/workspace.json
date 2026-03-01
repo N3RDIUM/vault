@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/abstraction.md",
+                "file": "concepts/processor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abstraction"
+              "title": "processor"
+            }
+          },
+          {
+            "id": "1d65247c7dbadf9a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,7 +190,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "concepts/abstraction.md"
+                "file": "concepts/processor.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -214,9 +224,9 @@
     "courses/ug/introduction to computing systems.md",
     "concepts/processor.md",
     "concepts/hardware vs software.md",
+    "concepts/abstraction.md",
     "Untitled.canvas",
     "conventions.md",
-    "concepts/abstraction.md",
     "_templates/inbox.md",
     "readme.md",
     "unique/202602091041.md",
