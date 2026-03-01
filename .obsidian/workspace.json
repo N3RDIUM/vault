@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "concepts/processor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -221,8 +221,8 @@
   },
   "active": "70e9248605b84b81",
   "lastOpenFiles": [
-    "courses/ug/introduction to computing systems.md",
     "concepts/processor.md",
+    "courses/ug/introduction to computing systems.md",
     "concepts/hardware vs software.md",
     "concepts/abstraction.md",
     "Untitled.canvas",
