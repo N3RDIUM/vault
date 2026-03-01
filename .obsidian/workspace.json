@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "conventions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "conventions"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "a91306217691d425",
@@ -209,6 +210,7 @@
   },
   "active": "f6c0c28ab380daf4",
   "lastOpenFiles": [
+    "readme.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
     "unique/202509291914.md",
@@ -234,7 +236,6 @@
     "big plen.md",
     "kanban/The One.md",
     "Essay.md",
-    "Dartmouth.md",
     "patches",
     "Untitled.canvas",
     "kanban",
