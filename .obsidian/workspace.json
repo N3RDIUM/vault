@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/abstraction.md",
-                "mode": "preview",
+                "file": "concepts/abstraction.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -207,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c0c28ab380daf4",
+  "active": "fa9bb5bb50e4271e",
   "lastOpenFiles": [
     "conventions.md",
-    "inbox/abstraction.md",
     "readme.md",
+    "concepts/abstraction.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
     "unique/202509291914.md",
