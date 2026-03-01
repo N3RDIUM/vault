@@ -7,7 +7,7 @@ The structure plan will keep this in mind, along with longevity. I really need t
 
 Remember that *you’re not writing a textbook here.* These are *highly optimized, distilled notes.* Structure them appropriately. It’ll be completely useless if this ends up turning into a textbook.
 # Paths
-All file and folder names will be `snake_case`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
+All file and folder names will be `lowercase with spaces`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
 Separate knowledge into *levels,* like:
 - #intro
@@ -39,6 +39,8 @@ Either individual notes, or non-recursive directories. This area is also highly 
 Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects.
 
 Wherever applicable (especially if it’s in the vault already), each note is to have a “prerequisites” section/tags.
+# Disambiguation
+When two notes from different subjects containing different concepts clash names, a “disambiguation” page with that name is to be created, which links to separate pages specific to these subjects, concatenated with `<subject>_`.
 # Footnotes
 Use footnotes generously to:
 - Mark or link to sources, especially if they’re external

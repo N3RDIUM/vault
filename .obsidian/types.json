@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "progress": "number",
-    "level": "text"
+    "level": "text",
+    "authors": "multitext"
   }
 }
