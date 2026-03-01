@@ -1,4 +1,5 @@
 {
-  "folder": "unique",
-  "template": "_templates/unique"
+  "folder": "inbox",
+  "template": "_templates/inbox",
+  "format": ""
 }

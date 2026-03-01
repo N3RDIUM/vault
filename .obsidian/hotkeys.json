@@ -92,14 +92,6 @@
       "key": "P"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "U"
-    }
-  ],
   "editor:focus-top": [
     {
       "modifiers": [
@@ -297,6 +289,14 @@
         "Alt"
       ],
       "key": "'"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ]
 }
