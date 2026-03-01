@@ -3,7 +3,7 @@ inbox_type: concept
 subjects:
   - cs
 ---
-Drawing a hard line between hardware and software is actually a bad idea, especially when choosing what to learn. IOCS states this wonderfully:
+Drawing a hard line between hardware and software is actually a bad idea, especially when choosing what to learn. ItCS states this wonderfully:
 
 > [!QUOTE]
 > […] But if we have to combine multiple components into a larger system, we should be careful not to allow their [[abstraction]]s to be the deepest level of our understanding.

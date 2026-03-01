@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/hardware_vs_software.md",
-                "mode": "preview",
+                "file": "concepts/hardware_vs_software.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -210,10 +210,10 @@
   "active": "de800a3bc86fcf59",
   "lastOpenFiles": [
     "concepts/abstraction.md",
-    "inbox/hardware_vs_software.md",
-    "_templates/inbox.md",
     "courses/ug/PP03 Introduction to Computing Systems.md",
+    "concepts/hardware_vs_software.md",
     "conventions.md",
+    "_templates/inbox.md",
     "readme.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
