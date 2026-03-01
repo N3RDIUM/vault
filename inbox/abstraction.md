@@ -3,9 +3,9 @@ inbox_type: concept
 subjects:
   - cs
 ---
-Abstraction isn’t really something tied to just computer science. In fact, our ability to construct and destruct abstractions plays a significant role in our progress as a thinking species. It allows us to think and communicate ideas concisely, not wasting bandwidth on things that don’t need it. [^1]
+An abstraction is essentially a generalization made from a complex idea that allows us to focus on what really matters. Otherwise, we would have to keep every aspect of the system in mind, something that isn’t always feasible.[^1]
 
-Instead of thinking about *all* the details, we can focus on just the part that matters. Of course, it’s also lossless, which is what makes it powerful if pulled off correctly. If something goes wrong, we can just destruct the abstraction to figure out exactly what went wrong. This is why it’s useful to understand the things being “shadowed” by an abstraction before using it. [^1]
+The ability to construct, utilize and destruct abstractions at will (given the right knowledge) has played a major role in getting us where we are as a thinking species. [^1]
 
 [^1]: PP03 Introduction to Computing Systems by Patt & Patel
 

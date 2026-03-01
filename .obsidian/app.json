@@ -3,7 +3,7 @@
   "showInlineTitle": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "strictLineBreaks": false,
   "vimMode": true,
   "livePreview": true,
