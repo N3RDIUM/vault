@@ -1,5 +1,4 @@
 ---
-inbox_type: concept
 subjects:
   - cs
 ---

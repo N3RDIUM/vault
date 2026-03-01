@@ -21,16 +21,6 @@
               "icon": "lucide-file",
               "title": "processor"
             }
-          },
-          {
-            "id": "1d65247c7dbadf9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -221,13 +211,13 @@
   },
   "active": "70e9248605b84b81",
   "lastOpenFiles": [
-    "concepts/processor.md",
-    "courses/ug/introduction to computing systems.md",
-    "concepts/hardware vs software.md",
     "concepts/abstraction.md",
+    "concepts/hardware vs software.md",
+    "concepts/processor.md",
+    "_templates/inbox.md",
+    "courses/ug/introduction to computing systems.md",
     "Untitled.canvas",
     "conventions.md",
-    "_templates/inbox.md",
     "readme.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
