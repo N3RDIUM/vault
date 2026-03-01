@@ -7,4 +7,4 @@ Drawing a hard line between hardware and software could actually be a bad idea, 
 
 The bottom line is, if you’re doing anything significant using computers, you’ll be way better off mastering BOTH hardware and software. There. I gave you an excuse to learn both. Have fun! [^1]
 
-[^1]: PP03 Introduction to Computing Systems by Patt & Patel
+[^1]: Introduction to Computing Systems by Patt & Patel

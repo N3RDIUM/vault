@@ -7,4 +7,4 @@ An abstraction is essentially a generalization made from a complex idea that all
 
 The ability to construct, utilize and destruct abstractions at will (given the right knowledge) has played a major role in getting us where we are as a thinking species. [^1]
 
-[^1]: PP03 Introduction to Computing Systems by Patt & Patel
+[^1]: Introduction to Computing Systems by Patt & Patel
