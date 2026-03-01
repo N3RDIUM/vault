@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/processor.md",
-                "mode": "preview",
+                "file": "concepts/abstraction.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "processor"
+              "title": "abstraction"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "concepts/processor.md"
+                "file": "concepts/abstraction.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -209,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70e9248605b84b81",
+  "active": "fa9bb5bb50e4271e",
   "lastOpenFiles": [
-    "concepts/abstraction.md",
     "concepts/hardware vs software.md",
     "concepts/processor.md",
+    "concepts/abstraction.md",
     "_templates/inbox.md",
     "courses/ug/introduction to computing systems.md",
     "Untitled.canvas",
