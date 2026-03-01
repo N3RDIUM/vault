@@ -2,7 +2,6 @@
 inbox_type: concept
 subjects:
   - cs
-level: intro
 ---
 An abstraction is essentially a generalization made from a complex idea that allows us to focus on what really matters. Otherwise, we would have to keep every aspect of the system in mind, something that isn’t always feasible.[^1]
 

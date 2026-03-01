@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fcef9dc229f61f2",
+        "id": "01e9a706ca8d01dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c0c28ab380daf4",
+            "id": "de800a3bc86fcf59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb5bb50e4271e",
+  "active": "de800a3bc86fcf59",
   "lastOpenFiles": [
     "conventions.md",
-    "readme.md",
     "concepts/abstraction.md",
+    "readme.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
     "unique/202509291914.md",
