@@ -23,7 +23,7 @@ Currently “registered” subjects:
 # Structure
 ## concepts/
 Individual notes in these directories will contain the notes for a specific topic in said subject. If multiple notes overlap too much, *merge them. No exceptions.* Each note will address only ONE topic or concept.
-## courses/{\<level\>}
+## courses/(level)
 Notes will contain structures and links to all other data types (concepts, derivations, problems, doubts, etc.) in a course-curriculum-like structure. No actual text material, just structure.
 ## problems
 Selected, interesting problems. No redundancy. Explore at most one each of a variety of problems instead of compiling those boring “problem sets”. This part of the vault is currently considered to have a relatively low priority.
@@ -33,7 +33,7 @@ Keep derivations separate from concepts, linking between them instead. This allo
 An index of doubts I’ve asked, along with answers and links to the concepts/derivations that helped resolve the doubt. Each file will have a `status` property which can hold one of three values: {open, resolved, obsolete}. Doubts need not start from the `inbox/` directory.
 ## projects/
 This section of the vault is currently highly experimental. I intend to add *practical* stuff to complement the theory.
-## research/\[\<title\>\]
+## research/(title)
 Either individual notes, or non-recursive directories. This area is also highly experimental.
 # Notes
 Each file has a `subjects` property wherever applicable. Subjects is plural because the text may span across multiple subjects.
