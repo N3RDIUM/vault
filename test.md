@@ -1,4 +1,4 @@
-$E=h\nu$ photoelectric effect
+$E=h\nu$ photoelectric effect 12th grade
 
 $$\int^{1}_{-1}{x}\cdot dx$$
 
