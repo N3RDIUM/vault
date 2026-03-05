@@ -1,3 +1,4 @@
+[TOC]
 # Context
 This vault is going to be used with a static site generator in order to cleanly integrate this with my website. Every time this repository is committed to, a webhook will trigger pages deploy on `n3rdium.dev`. That’s what I plan to do around April 2026.
 
