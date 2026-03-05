@@ -1,6 +1,7 @@
 ---
 subjects:
   - cs
+template: n3rdium.dev
 ---
 An abstraction is essentially a generalization made from a complex idea that allows us to focus on what really matters. Otherwise, we would have to keep every aspect of the system in mind, something that isn’t always feasible.
 

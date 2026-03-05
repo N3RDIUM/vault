@@ -1,6 +1,7 @@
 ---
 subjects:
   - cs
+template: n3rdium.dev
 ---
 Drawing a hard line between hardware and software could actually be a bad idea, especially when choosing what to learn.
 

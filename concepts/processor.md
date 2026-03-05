@@ -1,6 +1,7 @@
 ---
 subjects:
   - cs
+template: n3rdium.dev
 ---
 A processor is anything that performs the two tasks: (1) direct the processing of information and (2) process the actual information, both in response to a computer program.
 
