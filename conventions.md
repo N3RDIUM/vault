@@ -57,6 +57,7 @@ Use `#todo` tags to mark sections of an orphan that need work. An orphan cannot 
 Each file (or heading or list entry, if applicable) will contain these `#<level>` tags. This will improve accessibility. Whenever a topic is learnt in more depth than before, the same note is to be appended to with relevant tags in place.
 # Commits
 All commits must state their purpose.
+
 - `[meta]` if updating any meta files (this file, `readme`, etc.)
 - `[inbox]` if adding new entries to the inbox
 - `[refactor]` if refactoring, or transferring from the inbox to the actual structure.
