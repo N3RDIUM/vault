@@ -3,9 +3,9 @@ authors:
   - Yale N. Patt
   - Sanjay J. Patel
 ---
-[[abstraction]]
-[[hardware vs software]]
-[[processor]]
+[[/concepts/abstraction]]
+[[/concepts/hardware vs software]]
+[[/concepts/processor]]
 [[universal computational device]]
 [[ambiguity in natural language]]
 [[algorithm]]
