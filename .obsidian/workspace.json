@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conventions.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conventions"
+              "title": "test"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "2c0e6e65a1d13623",
   "lastOpenFiles": [
-    "test.md",
     "conventions.md",
+    "test.md",
     "readme.md",
     "Untitled.canvas",
     "courses/ug/introduction to computing systems.md",
