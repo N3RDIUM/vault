@@ -1,4 +1,6 @@
 ---
+title: Abstraction - N3RDIUM's Notes
+description: WIP
 subjects:
   - cs
 template: n3rdium.dev

@@ -1,4 +1,6 @@
 ---
+title: Note-taking Conventions - N3RDIUM's Notes
+description: WIP
 template: n3rdium.dev
 ---
 [TOC]

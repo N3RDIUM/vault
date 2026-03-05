@@ -1,4 +1,6 @@
 ---
+title: N3RDIUM's Notes
+description: WIP
 template: n3rdium.dev
 ---
 This is an obsidian vault that contains all my notes (physics, chemistry, math, cs), starting from grade 11, all the way to right now. Around April 2026, I’m going to integrate this with my website in order to make it even more openly accessible. I’m really looking forward to it!
