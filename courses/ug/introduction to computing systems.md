@@ -3,6 +3,6 @@ authors:
   - Yale N. Patt
   - Sanjay J. Patel
 ---
-- [[absatraction]]
+- [[abstraction]]
 - [[hardware vs software]]
 - [[processor]]
