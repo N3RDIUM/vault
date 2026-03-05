@@ -45,6 +45,7 @@ Wherever applicable (especially if it’s in the vault already), each note is to
 When two notes from different subjects containing different concepts clash names, a “disambiguation” page with that name is to be created, which links to separate pages specific to these subjects, concatenated with `<subject>_`.
 # Footnotes
 Use footnotes generously to:
+
 - Mark or link to sources, especially if they’re external
 - Explain edge cases, caveats, gotchas, etc. without breaking flow
 # Inbox
