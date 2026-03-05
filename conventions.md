@@ -10,15 +10,15 @@ Remember that *you’re not writing a textbook here.* These are *highly optimize
 All file and folder names will be `lowercase with spaces`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
 Separate knowledge into *levels,* like:
--   #intro
--   #ug
--   etc.
+- #intro
+- #ug
+- etc.
 # Subjects
 Currently “registered” subjects:
--   #physics 
--   #chemistry
--   #math
--   #cs
+- #physics 
+- #chemistry
+- #math
+- #cs
 # Structure
 ## concepts/
 Individual notes in these directories will contain the notes for a specific topic in said subject. If multiple notes overlap too much, *merge them. No exceptions.* Each note will address only ONE topic or concept.
