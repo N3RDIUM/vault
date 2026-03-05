@@ -11,11 +11,13 @@ Remember that *you’re not writing a textbook here.* These are *highly optimize
 All file and folder names will be `lowercase with spaces`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
 Separate knowledge into *levels,* like:
+
 * #intro
 * #ug
 * etc.
 # Subjects
 Currently “registered” subjects:
+
 * #physics 
 * #chemistry
 * #math

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conventions.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conventions"
+              "title": "test"
             }
           }
         ]
@@ -209,10 +209,10 @@
   },
   "active": "2c0e6e65a1d13623",
   "lastOpenFiles": [
-    "readme.md",
-    "textest.md",
-    "Untitled.canvas",
     "conventions.md",
+    "readme.md",
+    "test.md",
+    "Untitled.canvas",
     "courses/ug/introduction to computing systems.md",
     "concepts/processor.md",
     "concepts/hardware vs software.md",
