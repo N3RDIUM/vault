@@ -11,7 +11,7 @@ Avoid renaming, since URLs need stability. For some amount of safety netting, yo
 
 The structure plan will keep this in mind, along with longevity. I really need this structure to *just work,* with minimal refactoring. For decades to come. That’s going to be a fun challenge to tackle.
 
-Remember that *you’re not writing a textbook here.* These are *highly optimized, distilled notes.* Structure them appropriately. It’ll be completely useless if this ends up turning into a textbook.
+ A little reminder to myself: *you’re not writing a textbook here.* These are *highly optimized, distilled notes.* Structure them appropriately. It’ll be completely useless if this ends up turning into a textbook.
 # Paths
 All file and folder names will be `lowercase with spaces`. Unless they’re universally accepted and dominantly used in literature, the use of abbreviations is to be avoided. This will make way for readable URL slugs and cool stuff like that.
 # Levels
@@ -47,7 +47,7 @@ Each file has a `subjects` property wherever applicable. Subjects is plural beca
 
 Wherever applicable (especially if it’s in the vault already), each note is to have a “prerequisites” section/tags.
 # Disambiguation
-When two notes from different subjects containing different concepts clash names, a “disambiguation” page with that name is to be created, which links to separate pages specific to these subjects, concatenated with `<subject>_`.
+When two notes from different subjects containing different concepts clash names, a “disambiguation” page with that name is to be created, which links to separate pages specific to these subjects, concatenated with `<subject>_`. 
 # Footnotes
 Use footnotes generously to:
 
