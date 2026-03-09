@@ -7,6 +7,7 @@ authors:
 template: n3rdium.dev
 feeds:
   - search.json
+lastmod: 2026-03-09
 ---
 - [[abstraction]]
 - [[hardware vs software]]

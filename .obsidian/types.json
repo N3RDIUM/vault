@@ -6,6 +6,7 @@
     "progress": "number",
     "level": "text",
     "authors": "multitext",
-    "feeds": "multitext"
+    "feeds": "multitext",
+    "lastmod": "date"
   }
 }

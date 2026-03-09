@@ -1,7 +1,6 @@
 ---
-title: Test Note - N3RDIUM's Notes
-description: WIP
 template: n3rdium.dev
+sitemap_invisible: "1"
 ---
 $E=h\nu$ photoelectric effect 12th grade
 

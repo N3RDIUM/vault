@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "68fea6d5c4d56fc5",
+        "id": "166c97673c57bab0",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc73ef3958916f7",
+            "id": "b0039e56806baecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/processor.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "processor"
+              "title": "test"
             }
           }
         ]
@@ -208,16 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb5bb50e4271e",
+  "active": "b0039e56806baecb",
   "lastOpenFiles": [
+    "index.md",
+    "conventions.md",
+    "courses/ug/introduction to computing systems.md",
+    "concepts/processor.md",
     "concepts/hardware vs software.md",
     "concepts/abstraction.md",
-    "courses/ug/introduction to computing systems.md",
-    "conventions.md",
-    "index.md",
     "test.md",
     "_templates/inbox.md",
-    "concepts/processor.md",
     "permafrost.json",
     "_templates/n3rdium-dev.html",
     "Untitled.canvas",
