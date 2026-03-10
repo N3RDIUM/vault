@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_templates/inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "inbox"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "79e3fb5d4e337258",
   "lastOpenFiles": [
-    "contributing.md",
     "index.md",
+    "contributing.md",
     "_templates/inbox.md",
     "test.md",
     "courses/ug/introduction to computing systems.md",

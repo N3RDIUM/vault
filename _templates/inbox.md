@@ -7,4 +7,5 @@ template: n3rdium.dev
 feeds:
   - search.json
 lastmod:
+sitemap_invisible: "1"
 ---
