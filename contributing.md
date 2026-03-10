@@ -61,7 +61,7 @@ Use `#todo` tags to mark sections of an inbox note that need work. An inbox note
 # Updates
 Each file (or heading or list entry, if applicable) will contain these `#<level>` tags. This will improve accessibility. Whenever a topic is learnt in more depth than before, the same note is to be appended to with relevant tags in place.
 # Commits
-Strictly follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). If you’re using the [git integration]() for [obsidian](https://obsidian.md), please set the commit message formatting to:
+Strictly follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). If you’re using the [git integration](https://github.com/Vinzent03/obsidian-git) for [obsidian](https://obsidian.md), please set the commit message formatting to:
 
 ```
 sync: {{date}}
