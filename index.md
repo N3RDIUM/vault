@@ -6,8 +6,8 @@ feeds:
   - search.json
 lastmod: 2026-03-09
 ---
-This is an obsidian vault that contains all my notes (physics, chemistry, math, cs), starting from grade 11, all the way to right now. Around April 2026, I’m going to integrate this with my website in order to make it even more openly accessible. I’m really looking forward to it!
+This is an obsidian vault that contains all my notes (physics, chemistry, math, cs), starting from grade 11, all the way to right now. I’m currently in the process of digitizing the notes by hand (no use of AI whatsoever), so it’s currently in early access. With that out of the way, feel free to explore this place! I hope someone out there will find this helpful.
 
-Till then, this vault can be viewed natively in Obsidian, my preferred note-taking application.
+If you find any bugs/issues, please do report them here: [issues](https://github.com/n3rdium/vault/issues/)
 
-This vault employs elaborate [[conventions]] in order to stay afloat. If I find that they work *really* well, I might post a YouTube explainer video about them.
+If you want to contribute, please read the [[contributing]] guidelines.
